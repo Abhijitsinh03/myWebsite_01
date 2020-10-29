@@ -21,3 +21,5 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+.well-known/pki-validation/74712E61706A37D22883A93662E0C833.txt
+.ftpquota
